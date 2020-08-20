@@ -21,7 +21,7 @@ def videoTrim(dirVideo):
     Video quality:
     [1] Normal (libx264, compressed)
     [2] High (mpeg4, higher quality)
-    [3] Raw video (uncompressed, raw like I did your mom)
+    [3] Raw video (uncompressed, raw)
     [4] Perfect quality, smaller than raw video in size
     [5] Ogv file - open source
     [6] Webm file        
